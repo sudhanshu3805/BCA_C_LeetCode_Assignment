@@ -1,2 +1,18 @@
-# BCA-Semester-I-Mid-semester-II-Assignment-SUDHANSHU-Y26170566
-This repository contains C programming solutions, Leetcode problems and pratical assignment for BCA 1st semester covering arrays, strings, pointers and algorithms.
+# BCA C LeetCode Assignment
+
+This repository contains 10 C programming solutions for BCA 1st Semester.
+
+## Topics Covered
+- Arrays
+- Strings
+- Pointers
+- Algorithms
+
+## Platform
+LeetCode
+
+## Language
+C Programming
+
+## Author
+Sudhanshu
